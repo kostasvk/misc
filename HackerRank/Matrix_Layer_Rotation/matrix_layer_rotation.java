@@ -1,4 +1,4 @@
-/*KostVat 28-1-2018*/
+//Konstantinos V. 2018
 import java.io.*;
 import java.util.*;
 import java.text.*;
