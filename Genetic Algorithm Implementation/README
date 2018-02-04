@@ -1,0 +1,4 @@
+Genetic algorithms work by creating a random population of solutions and try to find the correct solutions by imitating the process of natural selection. 
+This version uses single point crossover selection and mutates 20% of the population. The parents fit is determined using the roulette wheel selection.
+The user can define the size of the population and can see the number of the steps needed to reach a solution. 
+The problem to be solved is to colour the connected/neighbor nodes of the graphs differently.
