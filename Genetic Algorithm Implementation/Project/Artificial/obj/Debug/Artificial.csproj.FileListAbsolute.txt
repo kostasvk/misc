@@ -1,0 +1,9 @@
+E:\arx3ia\p5\Artificial\Artificial\bin\Debug\Artificial.exe.config
+E:\arx3ia\p5\Artificial\Artificial\bin\Debug\Artificial.exe
+E:\arx3ia\p5\Artificial\Artificial\bin\Debug\Artificial.pdb
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.csprojResolveAssemblyReference.cache
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.Form1.resources
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.Properties.Resources.resources
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.csproj.GenerateResource.Cache
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.exe
+E:\arx3ia\p5\Artificial\Artificial\obj\Debug\Artificial.pdb
