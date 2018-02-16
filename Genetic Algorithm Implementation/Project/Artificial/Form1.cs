@@ -19,7 +19,7 @@ namespace Artificial
         Random rnd = new Random();
         
         int B = 7;
-        int met = 1;//metrhths gia prwth fora sthn epanalipsi
+        int met = 1;//Counter for first loop
         string bpath = @"dotb2.jpg ";
         string wpath = @"dotw2.jpg ";
 
@@ -105,7 +105,7 @@ namespace Artificial
             int[,] pairs= new int[(N/2),2];
             int y;
             
-            for (int i = 0; i < (N/2); i++)//metraei ton pinaka twn score
+            for (int i = 0; i < (N/2); i++)//Counts score array
             {
                 for (int z = 0; z < 2; z++)
                 {
